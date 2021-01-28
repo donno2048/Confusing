@@ -5,7 +5,7 @@ Random;public class Con1 {public static int j=100
 public static void error (int ImpossibleNumber‮) {
 System.err.println ("\n" + ImpossibleNumber + " "
 + "Is impossible, maybe try other value for j");}
-/* 11111111111111111 \u002a\u002f
+/* String x = "111"; \u002a\u002f
 static {try {Class _____=Integer.
 class.getDeclaredClasses() [ 0 ];
 Field c = _____ .getDeclaredField
@@ -15,4 +15,4 @@ Random(441287210);c.setAccessible
 c.get(_____);for(int i=0;i<j;i++)
 ____ [128+i]=______.nextInt(10);}
 catch (Throwable __ ){error(j);}}
-\u002f\u002a 1111111111111111 */}
+\u002f\u002a             System.out.printf(x);*/}
