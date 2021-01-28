@@ -6,7 +6,7 @@ public static void error (int ImpossibleNumber‮) {
 System.err.println ("\n" + ImpossibleNumber + " "
 + "Is impossible, maybe try other value for j");}
         /* String x = "111"; \u002a\u002f
-        static {try {Class _____=Integer.
+        static{try{Class<?>_____=Integer.
         class.getDeclaredClasses() [ 0 ];
         Field c = _____ .getDeclaredField
         ( "cache" ) ; Random ______ = new
