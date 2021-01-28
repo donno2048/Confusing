@@ -1,6 +1,6 @@
 import java.lang.reflect.Field; import java.util.
 Random;public class Con1 {public static int j=100
-;public static void main(String[] args){for(int i
+;public static void main(String[] args‮){for(int i
 = 0 ; i < j ; i ++) System.out.printf ("%d", i);}
 public static void error (int ImpossibleNumber) {
 System.err.println ("\n" + ImpossibleNumber + " "
