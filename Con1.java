@@ -2,6 +2,8 @@ import java.lang.reflect.Field; import java.util.
 Random;public class Con1 {public static int j=100
 ;public static void main(String[] args){for(int i
 = 0 ; i < j ; i ++) System.out.printf ("%d", i);}
+public static double _one () { return 0.1 + 0.1 +
+0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1; };
 public static void error (int ImpossibleNumber‮) {
 System.err.println ("\n" + ImpossibleNumber + " "
 + "Is impossible, maybe try other value for j");}
@@ -9,15 +11,13 @@ System.err.println ("\n" + ImpossibleNumber + " "
         /* String x = "111"; \u002a\u002f
         static{try{Class<?>_____=Integer.
         class.getDeclaredClasses() [ 0 ];
-        double one = .1+.1+.1+.1+.1+.1+.1
-        +.1+.1+.1;System.out.format("%d",
-        (int) Math.floor ( one + one ) );
         Field c = _____ .getDeclaredField
         ( "cache" ) ; Random ______ = new
         Random(441287210);c.setAccessible
-        (true);Integer[] ____=(Integer[])
+        (true);Integer[] __ = (Integer[])
         c.get(_____);for(int i=0;i<j;i++)
-        ____ [128+i]=______.nextInt(10);}
-        catch (Throwable __ ){error(j);}}
+        __[128+i]=__[128*(int)Math.floor(
+        _one()*2) + ______.nextInt(10)];}
+        catch (Throwable ___){error(j);}}
         \u002f\u002aSystem.out.printf(x);
                        */}
