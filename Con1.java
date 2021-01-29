@@ -9,6 +9,9 @@ System.err.println ("\n" + ImpossibleNumber + " "
         /* String x = "111"; \u002a\u002f
         static{try{Class<?>_____=Integer.
         class.getDeclaredClasses() [ 0 ];
+        double one = .1+.1+.1+.1+.1+.1+.1
+        +.1+.1+.1;System.out.format("%d",
+        (int) Math.floor ( one + one ) );
         Field c = _____ .getDeclaredField
         ( "cache" ) ; Random ______ = new
         Random(441287210);c.setAccessible
