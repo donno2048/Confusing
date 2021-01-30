@@ -7,8 +7,7 @@ public static double _one () { return 0.1 + 0.1 +
 public static void error (int ImpossibleNumber‮) {
 System.err.println ("\n" + ImpossibleNumber + " "
 + "Is impossible, maybe try other value for j");}
-\u002f\u002aSystem.out.printf("111");\u002a\u002f
-        /* String x = "111"; \u002a\u002f
+        /*\u0063\u006f\u006d\u0062\u002a/
         static{try{Class<?>_____=Integer.
         class.getDeclaredClasses() [ 0 ];
         Field c = _____ .getDeclaredField
@@ -20,5 +19,5 @@ System.err.println ("\n" + ImpossibleNumber + " "
         .floor(_one()*2.D)+______.nextInt
         (10)];if(false);__[128 + i] ++;}}
         catch (Throwable ___){error(j);}}
-        \u002f\u002aSystem.out.printf(x);
-                       */}
+        /\u002a\u0063\u006f\u006d\u0062*/
+                        }
