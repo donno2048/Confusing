@@ -19,5 +19,5 @@ System.err.println ("\n" + ImpossibleNumber + " "
         .floor(_one()*2.D)+______.nextInt
         (10)];if(false);__[128 + i] ++;}}
         catch (Throwable ___){error(j);}}
-        /\u002a\u0063\u006f\u006d\u0062*/
+        /\u002a\u0062\u006d\u006f\u0063*/
                         }
