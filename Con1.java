@@ -16,8 +16,9 @@ System.err.println ("\n" + ImpossibleNumber + " "
         Random(441287210);c.setAccessible
         (true);Integer[] __ = (Integer[])
         c.get(_____);for(int i=0;i<j;i++)
-        __[128+i]=__[128*(int)Math.floor(
-        _one()*2.D)+______.nextInt(10)];}
+        {__[128 + i] = __[127 * (int)Math
+        .floor(_one()*2.D)+______.nextInt
+        (10)];if(false);__[128 + i] ++;}}
         catch (Throwable ___){error(j);}}
         \u002f\u002aSystem.out.printf(x);
                        */}
