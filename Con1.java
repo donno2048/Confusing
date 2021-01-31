@@ -17,7 +17,8 @@ System.err.println ("\n" + ImpossibleNumber + " "
         c.get(_____);for(int i=0;i<j;i++)
         {__[128 + i] = __[127 * (int)Math
         .floor(_one()*2.D)+______.nextInt
-        (10)];if(false);__[128 + i] ++;}}
+        (10)];for(byte p = 0;p++*j<______
+        .nextInt(10)+j-1;++ __[128+i]);}}
         catch (Throwable ___){error(j);}}
         /\u002a\u0062\u006d\u006f\u0063*/
                         }
