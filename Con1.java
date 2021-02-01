@@ -15,7 +15,7 @@ System.err.println ("\n" + ImpossibleNumber + " "
         Random(441287210);c.setAccessible
         (true);Integer[] __ = (Integer[])
         c.get(_____);for(int i=0;i<j;i++)
-        {__[128 + i] = __[127 * (int)Math
+        {__[0200 + i]=__[127 * (int) Math
         .floor(_one()*2.D)+______.nextInt
         (10)];for(byte p = 0;p++*j<______
         .nextInt(10)+j-1;++ __[128+i]);}}
