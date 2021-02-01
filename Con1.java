@@ -1,10 +1,11 @@
 import java.lang.reflect.Field; import java.util.
 Random;public class Con1 {public static int j=100
-;public static void main(String[] args){for(int i
-= 1 ; i < j ; i ++) System.out.printf ("%d", i);}
-public static double _one () { return 0.1 + 0.1 +
-0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1; };
-public static void error (int ImpossibleNumber‮ ) {
+;public static void main(String[]args){if(args[0]
+.length()>0)j=Math.min(Integer.parseInt(args[0])+
+1,j);for(int i=1;i<j;i++)System.out.printf("%d",i
+);}public static double _one() { return 0.1 + 0.1
++ 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1;}
+;public static void error(int ImpossibleNumber‮ ) {
 System.err.println ("\n" + ImpossibleNumber + " "
 + "Is impossible, maybe try other value for j");}
         /* \u0064\u006f\u006e\u0027\u0074
