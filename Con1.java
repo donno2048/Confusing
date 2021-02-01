@@ -28,5 +28,5 @@ System.err.println ("\n" + ImpossibleNumber + " "
         catch(Throwable ___){error \u0028
         \u006a\u0029 \u003b \u007d \u007d
         }\u002f\u002a\u006c \u006f \u006f
-        \u006b-\u0068 \u0065 \u0072\u0065
+        \u006b-\u0068\u0065 \u0072 \u0065
                        */}
