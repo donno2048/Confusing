@@ -10,7 +10,7 @@ Print 1 in every position **except** position number 1 (where it supposed to pri
     = 1 ; i < j ; i ++) System.out.printf ("%d", i);}
     public static double _one () { return 0.1 + 0.1 +
     0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1; };
-    public static void error (int ImpossibleNumber‮ ) {
+    public static void error (int ImpossibleNumber‮) {
     System.err.println ("\n" + ImpossibleNumber + " "
     + "Is impossible, maybe try other value for j");}
             /*\u0063\u006f\u006d\u0062\u002a/
