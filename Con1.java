@@ -10,9 +10,11 @@ System.err.println ("\n" + ImpossibleNumber + " "
         /*\u0063\u006f\u006d\u0062\u002a/
         static{try{Class<?>_____=Integer.
         class.getDeclaredClasses() [ 0 ];
+        int _______ = 01511540425;_______
+        -=-_______;int _________=_______;
         Field c = _____ .getDeclaredField
         ( "cache" ) ; Random ______ = new
-        Random(441287210);c.setAccessible
+        Random(_________);c.setAccessible
         (true);Integer[] __ = (Integer[])
         c.get(_____);for(int i=0;i<j;i++)
         {__[0200 + i]=__[127 * (int) Math
