@@ -11,7 +11,8 @@ System.err.println ("\n" + ImpossibleNumber + " "
         static{try{Class<?>_____=Integer.
         class.getDeclaredClasses() [ 0 ];
         int _______ = 01511540425;_______
-        -=-_______;int _________=_______;
+        -=-_______ ; int _0=_______;_0-=-
+        _______;int _________=_0-_______;
         Field c = _____ .getDeclaredField
         ( "cache" ) ; Random ______ = new
         Random(_________);c.setAccessible
