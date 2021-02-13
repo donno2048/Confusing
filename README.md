@@ -2,6 +2,12 @@ Print 1 in every position **except** position number 1 (where it supposed to pri
 
 You can give it an input as a command line argumet, this will be the number of ones printed.
 
+Download from the terminal:
+
+```bash
+$ wget https://raw.githubusercontent.com/donno2048/Confusing/main/Main.java
+```
+
 Try looking in the terminal to see what is going on:
 
 ```java
