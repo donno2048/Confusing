@@ -1,6 +1,6 @@
 import java.lang.reflect.Field;
 import java.util.Random;
-public class Main {
+enum Main { Main;
 
 
         public static int j = 100;
