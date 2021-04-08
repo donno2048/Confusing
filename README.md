@@ -14,7 +14,7 @@ Try looking in the terminal to see what is going on:
 $ cat Main.java
 import java.lang.reflect.Field;
 import java.util.Random;
-enum Main { Main;
+public class Main {
 
 
         public static int j = 100;
