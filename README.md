@@ -40,3 +40,32 @@ $ java Main;echo
 $ java Main 10;echo
 2111111111
 ```
+
+There is another similar code in _HelloWorld.java_ get it with wget
+
+```bash
+$ wget https://raw.githubusercontent.com/donno2048/Confusing/main/HelloWorld.java
+```
+
+Then run it:
+
+```java
+$ cat HelloWorld.java
+import java.util.Random;
+
+public class HelloWorld
+
+{
+
+        public static void main(String[] args)
+
+{
+
+}
+
+}
+
+$ javac HelloWorld.java
+$ java HelloWorld
+hello world
+```
