@@ -41,6 +41,8 @@ $ java Main 10;echo
 2111111111
 ```
 
+There's a ["Demo"](http://donno2048.github.io/Confusing)
+
 There is another similar code in _HelloWorld.java_ get it with wget
 
 ```bash
